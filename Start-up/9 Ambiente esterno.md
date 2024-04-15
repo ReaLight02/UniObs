@@ -128,4 +128,4 @@ Per evitare problemi a reperire risorse finanziare si possono applicare due stra
 	
 	- <font color="#de7802">Partecipazione di associazioni di categoria</font>, influenzare ambiente esterno insieme ad altre organizzazioni che hanno interessi simili
 
-[[UniObs/StartUp/10 Analisi SWOT]]
+[[UniObs/Start-up/10 Analisi SWOT]]

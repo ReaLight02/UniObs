@@ -232,4 +232,4 @@ Per trovare l' EQUILIBRIO ECONOMICO bisogna considerare come detto prima:
 
 affinché possa parlarsi di equilibrio economico, è necessario che i ricavi siano tali da reintegrare, oltreché i costi storici, il <u>deficit</u> determinato dalla differenza tra i costi storici stessi ed i costi prospettici di riacquisto dei fattori in caso contrario, il <u>deficit di accumulo</u>che si genera dovrà essere colmato con ricorso a <u>capitale nuovo</u> ciò rappresenta un fatto negativo, in quanto il capitale nuovo dovrebbe, in condizioni normali, finanziare solo lo <u>sviluppo aziendale</u> e non anche la ricostituzione delle posizioni storiche.
 
-Per analizzare bene come far muovere un azienda viene attuato il [[UniObs/StartUp/3 modello di Porter]]
+Per analizzare bene come far muovere un azienda viene attuato il [[UniObs/Start-up/3 modello di Porter]]

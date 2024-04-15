@@ -80,4 +80,4 @@ I seguenti sono gli elementi che minacciano la sostituzione di un prodotto:
   2. <font color="#ff0000">disponibilità di sostituti per prodotti dei fornitori</font>
   3. <font color="#ff0000">contributo dei fornitori alla qualità del prodotto</font>
 
-[[UniObs/StartUp/3Es Schema Porter Antivirus]]
+[[UniObs/Start-up/3Es Schema Porter Antivirus]]

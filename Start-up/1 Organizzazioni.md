@@ -141,6 +141,6 @@
 
 
 
-[[UniObs/StartUp/2 Aziende]]
+[[UniObs/Start-up/2 Aziende]]
 
-[[UniObs/StartUp/4 Progettazione organizzativa e micro-struttura]]
+[[UniObs/Start-up/4 Progettazione organizzativa e micro-struttura]]
