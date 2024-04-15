@@ -186,4 +186,4 @@ Il <u>comportamento organizzativo</u> ha due obiettivi:
    - <font color="#ff0000">Arricchimento</font>
 
 Osserviamo dunque i [[5 Criteri di progettazione]]
-[[9 Ambiente esterno]]
+[[UniObs/StartUp/9 Ambiente esterno]]

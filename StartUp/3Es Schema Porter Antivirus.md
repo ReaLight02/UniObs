@@ -89,7 +89,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.24",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.0.14",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -157,7 +157,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "\nLe imprese che potrebbero diventare dei potenziali nuovi \ncompetitors sono quelle che sviluppano software in \ngenerale, entrare nel mondo della sicurezza informatica è \nmolto complesso, si sta parlando ad un mercato \ninternazionale online quindi sicuramente più complicato di \nrealtà più piccole.\nAbbiamo quindi tutte le grosse aziende informatiche di \nsviluppo software che non hanno ancora deciso di entrare \nnel settore della sicurezza informatica privata (dispositivi\npersonali), ad esempio:\n\n# Oracle\n\n# SAP",
+			"text": "\nLe imprese che potrebbero diventare dei potenziali nuovi\ncompetitors sono quelle che sviluppano software in\ngenerale, entrare nel mondo della sicurezza informatica è\nmolto complesso, si sta parlando ad un mercato\ninternazionale online quindi sicuramente più complicato di\nrealtà più piccole.\nAbbiamo quindi tutte le grosse aziende informatiche di\nsviluppo software che non hanno ancora deciso di entrare\nnel settore della sicurezza informatica privata (dispositivi\npersonali), ad esempio:\n\n# Oracle\n\n# SAP",
 			"rawText": "\nLe imprese che potrebbero diventare dei potenziali nuovi competitors sono quelle che sviluppano software in generale, entrare nel mondo della sicurezza informatica è molto complesso, si sta parlando ad un mercato internazionale online quindi sicuramente più complicato di realtà più piccole.\nAbbiamo quindi tutte le grosse aziende informatiche di sviluppo software che non hanno ancora deciso di entrare nel settore della sicurezza informatica privata (dispositivi personali), ad esempio:\n\n# Oracle\n\n# SAP",
 			"textAlign": "left",
 			"verticalAlign": "middle",
@@ -206,8 +206,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "text",
-			"version": 3006,
-			"versionNonce": 1899019995,
+			"version": 3007,
+			"versionNonce": 1700034219,
 			"isDeleted": false,
 			"id": "2jbTZFmM",
 			"fillStyle": "solid",
@@ -220,19 +220,19 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"y": 586.3204376720995,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "#eebefa",
-			"width": 651.487548828125,
+			"width": 649.4876098632812,
 			"height": 580,
 			"seed": 1871824686,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703681331131,
+			"updated": 1706547913169,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
 			"fontFamily": 1,
-			"text": "I prodotti offerti sul mercato che portano alla sostituzione di McAfee sono vari:\n\n# La necessità di concentrarsi sulla sicurezza \n   informatica riguardante la privacy\n\n# La necessità di offrire un servizio che non vada a\n  rallentare i dispositivi sui  quali viene installato\n\n# La necessità che il servizio sia efficiente ed efficace \n  riguardo il trovare la presenza di malware e dirsi \n  voglia\n\n# La chiarezza e il fatto che il servizio sia \n   user friendly, ad esempio McAfee è stato\n   definito \"difficile da disinstallare e cancellare\"\n\nI vari competitors che potrebbero creare difficoltà all'azienda potrebbero essere \nad esempio:\n\n# Microsoft Defender: Windows Defender\n\n#Avast\n\n#Avira\n\n#Bitdefender\n\n\n",
+			"text": "I prodotti offerti sul mercato che portano alla sostituzione di McAfee sono vari:\n\n# La necessità di concentrarsi sulla sicurezza \n   informatica riguardante la privacy\n\n# La necessità di offrire un servizio che non vada a\n  rallentare i dispositivi sui  quali viene installato\n\n# La necessità che il servizio sia efficiente ed efficace \n  riguardo il trovare la presenza di malware e dirsi \n  voglia\n\n# La chiarezza e il fatto che il servizio sia \n   user friendly, ad esempio McAfee è stato\n   definito \"difficile da disinstallare e cancellare\"\n\nI vari competitors che potrebbero creare difficoltà all'azienda potrebbero essere\nad esempio:\n\n# Microsoft Defender: Windows Defender\n\n#Avast\n\n#Avira\n\n#Bitdefender\n\n\n",
 			"rawText": "I prodotti offerti sul mercato che portano alla sostituzione di McAfee sono vari:\n\n# La necessità di concentrarsi sulla sicurezza \n   informatica riguardante la privacy\n\n# La necessità di offrire un servizio che non vada a\n  rallentare i dispositivi sui  quali viene installato\n\n# La necessità che il servizio sia efficiente ed efficace \n  riguardo il trovare la presenza di malware e dirsi \n  voglia\n\n# La chiarezza e il fatto che il servizio sia \n   user friendly, ad esempio McAfee è stato\n   definito \"difficile da disinstallare e cancellare\"\n\nI vari competitors che potrebbero creare difficoltà all'azienda potrebbero essere ad esempio:\n\n# Microsoft Defender: Windows Defender\n\n#Avast\n\n#Avira\n\n#Bitdefender\n\n\n",
 			"textAlign": "left",
 			"verticalAlign": "top",
@@ -281,8 +281,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "text",
-			"version": 1411,
-			"versionNonce": 602654907,
+			"version": 1412,
+			"versionNonce": 2083443339,
 			"isDeleted": false,
 			"id": "9bMWJXon",
 			"fillStyle": "solid",
@@ -295,19 +295,19 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"y": -271.6457034082161,
 			"strokeColor": "#e03131",
 			"backgroundColor": "#eebefa",
-			"width": 383.2796936035156,
+			"width": 379.379638671875,
 			"height": 475,
 			"seed": 1891990894,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703681331133,
+			"updated": 1706547913170,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Il rischio che i fornitori creino problemi\nalle aziende di sicurezza informatica \nsono medio-alte, ad esempio abbiamo \nApple riguardo la sicurezza \ninformatica che ultimamente ha avuto \nproblemi riguardo l' hosting dei loro \ncloud dato che questi si basano sui \nserver offerti totalmente da AWS che\npotrebbe tranquillamente prima o poi \nalzare i prezzi per il loro servizio.\nMcAfee ha vari data center:\n\n# uno a Londra\n# Amsterdam\n# Sydney\n# Tokyo\n# Hong Kong\n# vari nel Nord America\n",
+			"text": "Il rischio che i fornitori creino problemi\nalle aziende di sicurezza informatica\nsono medio-alte, ad esempio abbiamo\nApple riguardo la sicurezza\ninformatica che ultimamente ha avuto\nproblemi riguardo l' hosting dei loro\ncloud dato che questi si basano sui\nserver offerti totalmente da AWS che\npotrebbe tranquillamente prima o poi\nalzare i prezzi per il loro servizio.\nMcAfee ha vari data center:\n\n# uno a Londra\n# Amsterdam\n# Sydney\n# Tokyo\n# Hong Kong\n# vari nel Nord America\n",
 			"rawText": "Il rischio che i fornitori creino problemi alle aziende di sicurezza informatica sono medio-alte, ad esempio abbiamo Apple riguardo la sicurezza informatica che ultimamente ha avuto problemi riguardo l' hosting dei loro cloud dato che questi si basano sui server offerti totalmente da AWS che potrebbe tranquillamente prima o poi alzare i prezzi per il loro servizio.\nMcAfee ha vari data center:\n\n# uno a Londra\n# Amsterdam\n# Sydney\n# Tokyo\n# Hong Kong\n# vari nel Nord America\n",
 			"textAlign": "left",
 			"verticalAlign": "middle",
@@ -368,8 +368,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "text",
-			"version": 524,
-			"versionNonce": 1048701358,
+			"version": 528,
+			"versionNonce": 1888192901,
 			"isDeleted": false,
 			"id": "Tn2b9jZv",
 			"fillStyle": "solid",
@@ -378,23 +378,23 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -45.96082191368896,
+			"x": -40.96082191368896,
 			"y": -49.27604238687499,
 			"strokeColor": "#9c36b5",
 			"backgroundColor": "#eebefa",
-			"width": 354.93963623046875,
+			"width": 344.93963623046875,
 			"height": 50,
 			"seed": 272782386,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1698425175308,
+			"updated": 1706548106886,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "uno dei principali concorrenti diretti \ntrattiamo di Microsoft ",
+			"text": "uno dei principali concorrenti diretti\ntrattiamo di Microsoft",
 			"rawText": "uno dei principali concorrenti diretti trattiamo di Microsoft ",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -443,8 +443,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "text",
-			"version": 1493,
-			"versionNonce": 1233916827,
+			"version": 1494,
+			"versionNonce": 1807499435,
 			"isDeleted": false,
 			"id": "x3iPYxvy",
 			"fillStyle": "solid",
@@ -457,19 +457,19 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"y": -289.79888205020217,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#eebefa",
-			"width": 600.7794189453125,
+			"width": 600.7594604492188,
 			"height": 500,
 			"seed": 544024818,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1703681331138,
+			"updated": 1706547913172,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "IL potere contrattuale degli acquirenti nel mercato della \nsicurezza informatica è abbastanza impattante vista la \npossibilità di acquistare gratuitamente servizi che offrano \nuna sicurezza simile a prodotti a pagamento, McAfee è \nfacilmente sostituibile da altri programmi che offrono la \nstessa qualità in ambito di sicurezza che, pur essendo \nstata una delle aziende più importanti riguardo la sicurezza\ninformatica negli anni 90, non è riuscita a reinventarsi \nfornendo anti-malware efficienti e vendendo il servizio a:\n\n# 64,95 € per il servizio advanced\n\n# 44,95 € per il servizio premium\n\n# 39,95 € per il servizio essential\n\nCi sono anche stati anche upgrade del prodotto, ad esempio\nla possibilità di utilizzare una VPN fornita direttamente da \nMcAfee (anche se le VPN sono utilizzabili gratuitamente)\n",
+			"text": "IL potere contrattuale degli acquirenti nel mercato della\nsicurezza informatica è abbastanza impattante vista la\npossibilità di acquistare gratuitamente servizi che offrano\nuna sicurezza simile a prodotti a pagamento, McAfee è\nfacilmente sostituibile da altri programmi che offrono la\nstessa qualità in ambito di sicurezza che, pur essendo\nstata una delle aziende più importanti riguardo la sicurezza\ninformatica negli anni 90, non è riuscita a reinventarsi\nfornendo anti-malware efficienti e vendendo il servizio a:\n\n# 64,95 € per il servizio advanced\n\n# 44,95 € per il servizio premium\n\n# 39,95 € per il servizio essential\n\nCi sono anche stati anche upgrade del prodotto, ad esempio\nla possibilità di utilizzare una VPN fornita direttamente da\nMcAfee (anche se le VPN sono utilizzabili gratuitamente)\n",
 			"rawText": "IL potere contrattuale degli acquirenti nel mercato della sicurezza informatica è abbastanza impattante vista la possibilità di acquistare gratuitamente servizi che offrano una sicurezza simile a prodotti a pagamento, McAfee è facilmente sostituibile da altri programmi che offrono la stessa qualità in ambito di sicurezza che, pur essendo stata una delle aziende più importanti riguardo la sicurezza informatica negli anni 90, non è riuscita a reinventarsi fornendo anti-malware efficienti e vendendo il servizio a:\n\n# 64,95 € per il servizio advanced\n\n# 44,95 € per il servizio premium\n\n# 39,95 € per il servizio essential\n\nCi sono anche stati anche upgrade del prodotto, ad esempio la possibilità di utilizzare una VPN fornita direttamente da McAfee (anche se le VPN sono utilizzabili gratuitamente)\n",
 			"textAlign": "left",
 			"verticalAlign": "middle",
@@ -480,8 +480,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "arrow",
-			"version": 3881,
-			"versionNonce": 872420155,
+			"version": 3889,
+			"versionNonce": 1753022411,
 			"isDeleted": false,
 			"id": "-6FuQVKuwe36hA2n0Hd2l",
 			"fillStyle": "hachure",
@@ -508,7 +508,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					"id": "9CVCfiYT"
 				}
 			],
-			"updated": 1703681331135,
+			"updated": 1706548120163,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -551,7 +551,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"y": 121.00300375139983,
 			"strokeColor": "#2f9e44",
 			"backgroundColor": "transparent",
-			"width": 179.15985107421875,
+			"width": 169.15985107421875,
 			"height": 50,
 			"seed": 1079973102,
 			"groupIds": [],
@@ -563,7 +563,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Minaccia prodotti \nsostitutivi",
+			"text": "Minaccia prodotti\nsostitutivi",
 			"rawText": "Minaccia prodotti sostitutivi",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -574,8 +574,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "arrow",
-			"version": 2765,
-			"versionNonce": 729224699,
+			"version": 2773,
+			"versionNonce": 2120410763,
 			"isDeleted": false,
 			"id": "8mZ8-xkUXIRtISKwUQ9TL",
 			"fillStyle": "hachure",
@@ -584,12 +584,12 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -730.0725466675262,
-			"y": -13.99351667018939,
+			"x": -730.072599099349,
+			"y": -13.992176535565388,
 			"strokeColor": "#f08c00",
 			"backgroundColor": "transparent",
-			"width": 595.4010673943937,
-			"height": 4.79816459565977,
+			"width": 595.4011610087186,
+			"height": 4.799091032178513,
 			"seed": 690095026,
 			"groupIds": [],
 			"frameId": null,
@@ -602,7 +602,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					"id": "CnbCLNb5"
 				}
 			],
-			"updated": 1703681331134,
+			"updated": 1706548120162,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -624,8 +624,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					0
 				],
 				[
-					595.4010673943937,
-					-4.79816459565977
+					595.4011610087186,
+					-4.799091032178513
 				]
 			]
 		},
@@ -668,8 +668,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "arrow",
-			"version": 7767,
-			"versionNonce": 2111488123,
+			"version": 7775,
+			"versionNonce": 1062324491,
 			"isDeleted": false,
 			"id": "oQYu2UQmd-iibnxdKolYQ",
 			"fillStyle": "hachure",
@@ -678,12 +678,12 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 97.02904634705877,
-			"y": -499.82590599789233,
+			"x": 97.02513264274847,
+			"y": -499.8255274132761,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 1.482875240515753,
-			"height": 346.264636377163,
+			"width": 1.4857257627512297,
+			"height": 346.2643193736118,
 			"seed": 2079022130,
 			"groupIds": [],
 			"frameId": null,
@@ -696,7 +696,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					"id": "e377Dra6"
 				}
 			],
-			"updated": 1703681331135,
+			"updated": 1706548120163,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -718,8 +718,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					0
 				],
 				[
-					1.482875240515753,
-					346.264636377163
+					1.4857257627512297,
+					346.2643193736118
 				]
 			]
 		},
@@ -751,7 +751,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Minaccia di nuovi \nentranti potenziali",
+			"text": "Minaccia di nuovi\nentranti potenziali",
 			"rawText": "Minaccia di nuovi entranti potenziali",
 			"textAlign": "center",
 			"verticalAlign": "middle",
@@ -762,8 +762,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		},
 		{
 			"type": "arrow",
-			"version": 1878,
-			"versionNonce": 2111122171,
+			"version": 1886,
+			"versionNonce": 938820171,
 			"isDeleted": false,
 			"id": "iTGmGtAEVM-fRb_lUVkTX",
 			"fillStyle": "solid",
@@ -772,12 +772,12 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 780.6409675967817,
-			"y": -12.878860333458928,
+			"x": 780.6400793461842,
+			"y": -12.88998139374048,
 			"strokeColor": "#1971c2",
 			"backgroundColor": "#eebefa",
-			"width": 376.7165870868427,
-			"height": 4.930656812548179,
+			"width": 376.71519519796266,
+			"height": 4.924193425109191,
 			"seed": 573973934,
 			"groupIds": [],
 			"frameId": null,
@@ -790,7 +790,7 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					"id": "sqFZYiuK"
 				}
 			],
-			"updated": 1703681331137,
+			"updated": 1706548120164,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -812,8 +812,8 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 					0
 				],
 				[
-					-376.7165870868427,
-					-4.930656812548179
+					-376.71519519796266,
+					-4.924193425109191
 				]
 			]
 		},
@@ -907,10 +907,10 @@ uno dei principali concorrenti diretti trattiamo di Microsoft  ^Tn2b9jZv
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 3818.208830695111,
-		"scrollY": 1953.172711743375,
+		"scrollX": 610.9677366220268,
+		"scrollY": 625.0028983306646,
 		"zoom": {
-			"value": 0.1
+			"value": 1.0305086543894673
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
